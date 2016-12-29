@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m+ Heap.The smallest of 2 elements should be smallest in a previus empty Heap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Deleting minimal value in a Heap should result in an empty Heap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Recursivly finfing and deleting elements in a Heap should return same elements: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.The minimal value of a melded Heap should be the min of the min of both heaps: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Two heaps should be equal if recursivly removing min elements result in same elements until empty: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.The minimal value of 2 heaps should be the minimal after dispacing it from heap 1 to 2 and melding both: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
